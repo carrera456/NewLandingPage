@@ -55,8 +55,8 @@ a {
 
 .titol_imatge {
     background-color: darkgray;
-    width: 50%;
-    flex: 0 1 auto;
+    /* width: 50%; */
+    /* flex: 0 1 auto; */
     display: flex;
     align-items: center;
     justify-content: center;
